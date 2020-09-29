@@ -1,0 +1,25 @@
+.main_yandex{
+    height: 20%;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.service_img_lg{
+    height: 40%;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.service_img_sm{
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list{
+    list-style-type: none;
+    width: 25%;
+}
